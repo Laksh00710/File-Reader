@@ -1,4 +1,3 @@
-# File-Reader
 def read_file(filepath):
     try:
         with open(filepath, 'r') as file:
